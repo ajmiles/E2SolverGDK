@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "E2SolverGDK", "E2SolverGDK.vcxproj", "{4038F755-9F56-4E08-8B49-7AD9C93EC120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Gaming.Desktop.x64 = Debug|Gaming.Desktop.x64
+		Profile|Gaming.Desktop.x64 = Profile|Gaming.Desktop.x64
+		Release|Gaming.Desktop.x64 = Release|Gaming.Desktop.x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4038F755-9F56-4E08-8B49-7AD9C93EC120}.Debug|Gaming.Desktop.x64.ActiveCfg = Debug|Gaming.Desktop.x64
+		{4038F755-9F56-4E08-8B49-7AD9C93EC120}.Debug|Gaming.Desktop.x64.Build.0 = Debug|Gaming.Desktop.x64
+		{4038F755-9F56-4E08-8B49-7AD9C93EC120}.Debug|Gaming.Desktop.x64.Deploy.0 = Debug|Gaming.Desktop.x64
+		{4038F755-9F56-4E08-8B49-7AD9C93EC120}.Profile|Gaming.Desktop.x64.ActiveCfg = Profile|Gaming.Desktop.x64
+		{4038F755-9F56-4E08-8B49-7AD9C93EC120}.Profile|Gaming.Desktop.x64.Build.0 = Profile|Gaming.Desktop.x64
+		{4038F755-9F56-4E08-8B49-7AD9C93EC120}.Profile|Gaming.Desktop.x64.Deploy.0 = Profile|Gaming.Desktop.x64
+		{4038F755-9F56-4E08-8B49-7AD9C93EC120}.Release|Gaming.Desktop.x64.ActiveCfg = Release|Gaming.Desktop.x64
+		{4038F755-9F56-4E08-8B49-7AD9C93EC120}.Release|Gaming.Desktop.x64.Build.0 = Release|Gaming.Desktop.x64
+		{4038F755-9F56-4E08-8B49-7AD9C93EC120}.Release|Gaming.Desktop.x64.Deploy.0 = Release|Gaming.Desktop.x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9988548E-941A-499A-90A5-8F764AB56564}
+	EndGlobalSection
+EndGlobal
